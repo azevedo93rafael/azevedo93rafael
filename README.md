@@ -2,7 +2,7 @@
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, pela Faculdade Estácio, buscando desenvolvimento pessoal e profissional no ramo, buscando migração de carreira.
 
-Tenho interesse preferencialmente pelo frontend porém aberto a todas as oportunidades no ramo! 
+Tenho interesse preferencialmente pelo front porém aberto a todas as oportunidades no ramo! 
 
 <!---
 azevedo93rafael/azevedo93rafael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
